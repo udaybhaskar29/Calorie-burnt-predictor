@@ -76,7 +76,9 @@ streamlit run app.py
 
 ## 📸 Application Preview
 
-(Add a screenshot here after deployment.)
+! [Home Page](Screenshot 2026-08-02 234254.png)
+
+! [Prediction Page](Screenshot 2026-08-02 234326.png)
 
 ```
 images/app.png
