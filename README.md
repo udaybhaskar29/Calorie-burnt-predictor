@@ -6,6 +6,12 @@ The application is built using **Python**, **Random Forest Regressor**, and **St
 
 ---
 
+## 🌐 Live Demo
+
+👉 **Try the app here:** https://calorie-burn-predictor-ml.streamlit.app
+
+---
+
 ## 📌 Features
 
 - Predict calories burned in real time
