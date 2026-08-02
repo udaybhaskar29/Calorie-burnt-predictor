@@ -6,22 +6,21 @@ The application is built using **Python**, **Random Forest Regressor**, and **St
 
 ---
 
-## 🚀 Quick Start
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-
-```
-
----
-
 ## 📌 Features
 
 - Predict calories burned in real time
 - Interactive Streamlit web interface
 - Machine Learning model using Random Forest Regressor
 - Simple and user-friendly design
+
+---
+
+## 🚀 Quick Start
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
 
 ---
 
