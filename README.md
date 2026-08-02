@@ -76,9 +76,9 @@ streamlit run app.py
 
 ## 📸 Application Preview
 
-! [Home Page](home.png)
+![Home Page](home.png)
 
-! [Prediction Page](prediction.png)
+![Prediction Page](prediction.png)
 
 ---
 
