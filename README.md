@@ -28,6 +28,18 @@ The application is built using **Python**, **Random Forest Regressor**, and **St
 
 ---
 
+## 📊 Model Performance Comparison
+
+| Model | MAE ↓ | RMSE ↓ | R² Score ↑ |
+|------|------:|-------:|-----------:|
+| Linear Regression | 8.442 | 11.489 | 0.9673 |
+| Decision Tree | 3.437 | 5.336 | 0.9929 |
+| **Random Forest** | **1.717** | **2.683** | **0.9982** |
+
+> **Best Model:** Random Forest Regressor
+
+---
+
 ## 📂 Dataset Features
 
 The model is trained using the following input features:
