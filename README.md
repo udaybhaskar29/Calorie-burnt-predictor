@@ -11,6 +11,7 @@ The application is built using **Python**, **Random Forest Regressor**, and **St
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
 ```
 
 ---
