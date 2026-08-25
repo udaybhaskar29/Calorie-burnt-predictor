@@ -8,8 +8,7 @@ The application is built using **Python**, **Random Forest Regressor**, and **St
 
 ## 🌐 Live Demo
 
-👉 **Try the app here:** https://calorie-burn-predictor-ml.streamlit.app
-
+👉 **Try the app here:** https://calorie-burnt-predictor-ml-test.streamlit.app/
 ---
 
 ## 📌 Features
